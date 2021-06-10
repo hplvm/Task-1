@@ -62,6 +62,7 @@ The project use ESP8266-01, as it is cheaper and compact, but it requires additi
 
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 2.[Music Reactive LED Strip](https://www.hackster.io/buzzandy/music-reactive-led-strip-5645ed)
@@ -93,6 +94,7 @@ The surrounding sound is recorded by microphone and amplified, and processed by 
 Adding a **aux input** would be an better idea, as it eliminates noise.
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 3 [Log temperature data to Google Sheets](https://www.hackster.io/24Ishan/log-temperature-data-to-google-sheets-0b189b)
@@ -116,6 +118,7 @@ Micro-controllers generally have limited storage, this projects adds potentially
 *None*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 4 [Energy Meter](https://www.instructables.com/Arduino-Energy-Meter-V20/)
@@ -142,6 +145,7 @@ To be concious on **power consumed** by individual appliance in addition to tota
 Linking with any **Home assistant**, will make this projectable **scalable**.
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 5 [Line Follower Robot using Microcontroller](https://www.electronicshub.org/line-follower-robot-using-microcontroller/)
@@ -167,6 +171,7 @@ IR sensors resisitance varies with the amount of IR light recieved, and black su
 Microcontroller used is old and bulky. Instead ESP8266/ESP32 can be used as they have additional **Wi-Fi** capabilities.
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 6 [Simple Lane Detection](https://www.hackster.io/kemfic/simple-lane-detection-c3db2f)
@@ -199,6 +204,7 @@ Can highlight lanes in road.
 *none*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 7 [ATtiny85 Ring Watch](https://www.instructables.com/ATtiny85-Ring-Watch/)
@@ -224,6 +230,7 @@ Display time, day and date.
 *none*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 8 [Make an Autonomous Follow Me Cooler](https://www.hackster.io/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)
@@ -253,6 +260,7 @@ The gps of owner is send to arduino via bluetooth with the help of HC-05 module.
 The is a bottleneck in this project, the gps can function almost anywhere in the globe, but the maximum distance between owner and box is restricted by bluetooth module to approximately 10m. If the owners gps information is sent to box over the internet, this can be resolved.
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 9 [DIY Gesture Controlled Arduino Based Air Mouse using Accelerometer](https://circuitdigest.com/microcontroller-projects/diy-gesture-controlled-arduino-air-mouse-using-accelerometer)
@@ -281,6 +289,7 @@ The accelerometer and push buttons data are collected by arduino nano, and mouse
 As data flows to nano then bluetooth then serial then python script, it is pron to noise, and have high latency, in other words it will be less responsive and inaccurate. To resolve above mentioned issues ESP32 can be used instead of arduino nano, as it has inbuilt bluetooth, so can configured to act as bluetooth mouse.
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 10 [Arduino Radar](https://www.instructables.com/Arduino-Radar-1/)
@@ -308,6 +317,7 @@ The measurements of ultrasonic sensor is recorded at different angles by setting
 *none*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 11 [Sun Tracking Solar Panel Project using Microcontroller](https://www.electronicshub.org/sun-tracking-solar-panel/)
@@ -332,6 +342,7 @@ Two LDR's are located on either side of solar panel, if difference of measured v
 We should not spend more energy in the process of harvesting energy, than what extra energy is harvested. For maximum efficiency the microcontroller should take measurement and adjust the panel only every 15 minutes or so, and sleep rest of the time.
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 12 [RFID Based Attendance System](https://www.electronicshub.org/rfid-based-attendance-system/)
@@ -356,6 +367,7 @@ When the RFID reader detects the ID card, it will send the unique card no to the
 *none*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 13 [Third Eye for The Blind](https://www.hackster.io/muhammedazhar/third-eye-for-the-blind-8c246d)
@@ -382,6 +394,7 @@ The Ultrosonic sensors can be used to find the distance to the obstacle, which c
 In this 5 arduino pro mini's are used, instead multiplexers could have been used to connect 5 ultrasonic sensors. 
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 14 [Wunderpixel](https://www.hackster.io/leohill/wunderpixel-91b031)
@@ -405,6 +418,7 @@ The ESP8266 just has approximately 25 GPIO, so the upper limit of no. LED's that
 *none*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
 
 ## 15 [ESP32 VGA Snake](https://www.instructables.com/ESP32-VGA-Snake/)
@@ -428,4 +442,5 @@ The VGA protocol is mimiced by ESP32 to produce images.
 *none*
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
+
 ---
