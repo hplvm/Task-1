@@ -48,8 +48,6 @@ The project use ESP8266-01, as it is cheaper and compact, but it requires additi
 ![Image](https://hackster.imgix.net/uploads/attachments/391591/screen_shot_2017-12-08_at_11_00_05_am_OmlJE76dy1.png?auto=compress%2Cformat&w=900&h=675&fit=min)
 
 
-![Image](https://hackster.imgix.net/uploads/attachments/391608/img_3977_aa6vxsLoiA.JPG)
-
 >Image(s) are used from the [project page](https://www.hackster.io/buzzandy/music-reactive-led-strip-5645ed#overview). 
 
 ### 2.1 WHY?
