@@ -226,23 +226,4 @@ The gps of owner is send to arduino via bluetooth with the help of HC-05 module.
 
 The is a bottleneck in this project, the gps can function almost anywhere in the globe, but the maximum distance between owner and box is restricted by bluetooth module to approximately 10m. If the owners gps information is sent to box over the internet, this can be resolved.
 
----
 
-## 9 
-
-
-### 9.1
-
-
-### 9.2
-
-
-### 9.3
-
-
-### 9.4 
-
-
-### 9.5
-
----
