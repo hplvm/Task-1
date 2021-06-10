@@ -1,4 +1,4 @@
-# MiniTask_1 of [Task 1]()
+# MiniTask_1 of [Task 1](https://github.com/hplvm/Task-1)
 *-  Electronics Club*
 
 ### Objective
