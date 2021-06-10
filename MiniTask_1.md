@@ -235,7 +235,7 @@ Display time, day and date.
 
 ## 8 [Make an Autonomous Follow Me Cooler](https://www.hackster.io/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)
 
-![gif](https://hackster.imgix.net/uploads/attachments/304927/cover_x_sm_ryeceUbLlV.gif)
+![](https://hackster.imgix.net/uploads/attachments/304927/cover_x_sm_ryeceUbLlV.gif)
 
 ### 8.1 WHY?
 This project can be people with weak memory, who forget things. And also for blind people.
@@ -371,9 +371,9 @@ When the RFID reader detects the ID card, it will send the unique card no to the
 ---
 
 ## 13 [Third Eye for The Blind](https://www.hackster.io/muhammedazhar/third-eye-for-the-blind-8c246d)
-![](https://hackster.imgix.net/uploads/attachments/315304/third2beye2bfor2bthe2bblind_we34TitvS0.jpg)
+![](https://hackster.imgix.net/uploads/attachments/315304/third2beye2bfor2bthe2bblind_we34TitvS0.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)
 
-![](https://hackster.imgix.net/uploads/attachments/315283/sketch_XO2tmjhP5Y.jpg)
+![](https://hackster.imgix.net/uploads/attachments/315283/sketch_XO2tmjhP5Y.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
 
 ### 13.1 WHY?
 To help blind people to find things in vicinity without touching them. 
