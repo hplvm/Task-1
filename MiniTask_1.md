@@ -309,7 +309,7 @@ Finds obstacles over a field of view of 180 degree
 ### 10.4 Working
 The measurements of ultrasonic sensor is recorded at different angles by setting servo to the angle, it repeats 0-180-0 degree motion to get data continuously. And the data is send to computer using serial, which is processed by the software "processing" to give beatiful animation.
 
-![gif](https://github.com/hplvm/Task-1/media/minitask1_prj10.gif)
+![gif](https://github.com/hplvm/Task-1/blob/main/media/minitask1_prj10.gif)
 
 
 
@@ -322,7 +322,7 @@ The measurements of ultrasonic sensor is recorded at different angles by setting
 
 ## 11 [Sun Tracking Solar Panel Project using Microcontroller](https://www.electronicshub.org/sun-tracking-solar-panel/)
 
-![gif](https://github.com/hplvm/Task-1/media/minitask1_prj11.gif)
+![gif](https://github.com/hplvm/Task-1/blob/main/media/minitask1_prj11.gif.gif)
 
 ### 11.1 WHY?
 To increase energy harvested by solar panel..
@@ -398,7 +398,7 @@ In this 5 arduino pro mini's are used, instead multiplexers could have been used
 ---
 
 ## 14 [Wunderpixel](https://www.hackster.io/leohill/wunderpixel-91b031)
-![gif](https://github.com/hplvm/Task-1/media/minitask1_prj14.gif)
+![gif](https://github.com/hplvm/Task-1/blob/main/media/minitask_prj14.gif)
 
 ### 14.1 WHY?
 Displays provid user with useful easily understandable information. 
