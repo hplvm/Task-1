@@ -235,7 +235,7 @@ Display time, day and date.
 
 ## 8 [Make an Autonomous Follow Me Cooler](https://www.hackster.io/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)
 
-![](https://hackster.imgix.net/uploads/attachments/304927/cover_x_sm_ryeceUbLlV.gif)
+![](https://github.com/hplvm/Task-1/blob/main/media/minitask1_prj8.gif)
 
 ### 8.1 WHY?
 This project can be people with weak memory, who forget things. And also for blind people.
