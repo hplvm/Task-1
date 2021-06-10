@@ -1,3 +1,3 @@
 ## Task-1
-This repo is for documentation of **TASK-2** given by Electronics Club to Project Members.
+This repo is for documentation of **TASK-1** given by Electronics Club to Project Members.
  
