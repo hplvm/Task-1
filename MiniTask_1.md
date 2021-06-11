@@ -391,7 +391,7 @@ The Ultrosonic sensors can be used to find the distance to the obstacle, which c
 
 
 ### 13.5 Improvements possible
-In this 5 arduino pro mini's are used, instead multiplexers could have been used to connect 5 ultrasonic sensors. 
+In this project, 5 arduino pro mini's are used, instead multiplexers could have been used to connect 5 ultrasonic sensors. 
 
 [Table of content](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#Table-of-content)
 
