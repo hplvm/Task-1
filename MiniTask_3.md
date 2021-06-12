@@ -14,8 +14,8 @@ To understand how to debug a project.
 If the project doesn't work:
 
 Connect the project to power supply and check whether power LED in ESP32 is ON/OFF:
-- if [ON](https://github.com/hplvm/Task-1/blob/main/MiniTask_3.md#ESP32_powerLED_OFF)   (click on it to navigate)
-- if [OFF](https://github.com/hplvm/Task-1/blob/main/MiniTask_3.md#ESP32_powerLED_ON)   (click on it to navigate)
+- if [OFF](https://github.com/hplvm/Task-1/blob/main/MiniTask_3.md#ESP32_powerLED_OFF)   (click on it to navigate)
+- if [ON](https://github.com/hplvm/Task-1/blob/main/MiniTask_3.md#ESP32_powerLED_ON)   (click on it to navigate)
 
 ## ESP32_powerLED_OFF
 Change the power-supply(say mobile charger or powerbank) and observe the power LED. If the LED is
