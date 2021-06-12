@@ -8,7 +8,7 @@ To understand how a project progresses over time.
 
 [Energy Meter](https://github.com/hplvm/Task-1/blob/main/MiniTask_2.md#1-Energy-Meter)
 
-[ESP8266 01 IoT Smart Timer for Home Automation](https://github.com/hplvm/Task-1/blob/main/MiniTask_1.md#2-ESP8266-01-IoT-Smart-Timer-for-Home-Automation)
+[ESP8266 01 IoT Smart Timer for Home Automation](https://github.com/hplvm/Task-1/blob/main/MiniTask_2.md#2-ESP8266-01-IoT-Smart-Timer-for-Home-Automation)
 
 ---
 
