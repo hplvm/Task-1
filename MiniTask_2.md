@@ -105,7 +105,7 @@ Sensors --> Microcontroller --> Display
 1. Microcontroller: among arduino mega and ESP32, **ESP32** has clear advantage of RTOS and Wi-Fi capability. 
 1. Display: as display is not of much importance simple generic **OLED 128x64** will be sufficient.
 
-### 1.5 Prorotyping
+### 1.5 Prototyping
 
 Builting the circuit and testing with differnt loads, and calibirating with commercial power measuring tool to get precise outputs.
 And finally debugging if any undesirable outputs found.
@@ -164,7 +164,7 @@ Relay with octocoupler is preffered as it has higher protection at not much extr
 
 Webserver can be made using few lines of code using wifi librares for esp8266 in Arduino IDE.
 
-### 2.5 Prorotyping
+### 2.5 Prototyping
 
 Connecting the component and testing the feature and debugging if any feature not working any undesirable outputs found.
 
